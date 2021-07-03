@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "Access to __filename and __dirname within ECMAScript modules",
   "repository": "https://github.com/75lb/current-module-paths",
-  "main": "index.mjs",
+  "exports": "./index.mjs",
   "keywords": [
     "__dirname",
     "__filename",
@@ -28,5 +28,8 @@
   "files": [
     "index.mjs",
     "dist"
-  ]
+  ],
+  "devDependencies": {
+    "test-runner": "^0.9.5"
+  }
 }
