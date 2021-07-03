@@ -2,7 +2,7 @@
   "name": "current-module-paths",
   "author": "Lloyd Brookes <75pound@gmail.com>",
   "version": "0.1.0",
-  "description": "current-module-paths",
+  "description": "Access to __filename and __dirname within ECMAScript modules",
   "repository": "https://github.com/75lb/current-module-paths",
   "main": "index.mjs",
   "keywords": [
