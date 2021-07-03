@@ -2,7 +2,7 @@
 [![npm module downloads](https://badgen.net/npm/dt/current-module-paths)](https://www.npmjs.org/package/current-module-paths)
 [![Gihub repo dependents](https://badgen.net/github/dependents-repo/75lb/current-module-paths)](https://github.com/75lb/current-module-paths/network/dependents?dependent_type=REPOSITORY)
 [![Gihub package dependents](https://badgen.net/github/dependents-pkg/75lb/current-module-paths)](https://github.com/75lb/current-module-paths/network/dependents?dependent_type=PACKAGE)
-[![Build Status](https://travis-ci.org/75lb/current-module-paths.svg?branch=master)](https://travis-ci.org/75lb/current-module-paths)
+[![Node.js CI](https://github.com/75lb/current-module-paths/actions/workflows/node.js.yml/badge.svg)](https://github.com/75lb/current-module-paths/actions/workflows/node.js.yml)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](https://github.com/feross/standard)
 
 # current-module-paths
