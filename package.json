@@ -33,6 +33,6 @@
     "dist"
   ],
   "devDependencies": {
-    "test-runner": "^0.9.7"
+    "test-runner": "^0.9.8"
   }
 }
