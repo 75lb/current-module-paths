@@ -27,13 +27,14 @@
     "node": ">=12.17"
   },
   "scripts": {
-    "test": "test-runner test/test.?js"
+    "test": "npm run dist && npm run test:ci",
+    "dist": "75lb-nature cjs-build index.js",
+    "test:ci": "75lb-nature test test/test.mjs test/test.cjs"
   },
   "files": [
     "index.js",
     "dist"
   ],
   "devDependencies": {
-    "test-runner": "^0.10.1"
   }
 }
