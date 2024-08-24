@@ -7,7 +7,7 @@
 
 # current-module-paths
 
-Access to `__filename` and `__dirname` within ECMAScript modules.
+Access to the CommonJS `__filename` and `__dirname` variables within ECMAScript modules.
 
 
 ```js
