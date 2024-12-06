@@ -4,7 +4,10 @@
   "version": "1.1.2",
   "type": "module",
   "description": "Access to __filename and __dirname within ECMAScript modules",
-  "repository": "https://github.com/75lb/current-module-paths",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/75lb/current-module-paths.git"
+  },
   "exports": {
     "import": "./index.js",
     "require": "./dist/index.cjs"
